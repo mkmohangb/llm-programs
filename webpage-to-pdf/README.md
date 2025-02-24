@@ -34,7 +34,7 @@ A Python script that converts web pages to well-formatted PDFs while preserving 
 ## Usage
 
 ```bash
-python webpage_to_pdf.py <url>
+python converter.py <url>
 ```
 
 The script will generate a PDF file in the current directory with a name based on the URL.
@@ -42,7 +42,7 @@ The script will generate a PDF file in the current directory with a name based o
 ## Example
 
 ```bash
-python webpage_to_pdf.py https://example.com/article
+python converter.py https://example.com/article
 ```
 
 This will create `output_article.pdf` in the current directory.
