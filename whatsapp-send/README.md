@@ -1,1 +1,2 @@
-# Whatsapp-send\n\nThis directory contains the script to automate sending messages via WhatsApp.
+## Whatsapp-send
+- script to automate sending messages with attachments via WhatsApp using [playwright](https://playwright.dev/).
